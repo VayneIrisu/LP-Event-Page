@@ -67,7 +67,7 @@
   position: relative;
   z-index: 2;
   text-align: center;
-  padding: 120px 24px 80px;
+  padding: 120px 24px 120px;
   max-width: 900px;
   animation: fadeInUp 1s ease-out;
 }
@@ -237,7 +237,7 @@
 
 .scrollHint {
   position: absolute;
-  bottom: 30px;
+  bottom: 12px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 2;
